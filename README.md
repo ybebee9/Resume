@@ -1,5 +1,5 @@
-![이력서-1](https://user-images.githubusercontent.com/48410197/76704301-6422c680-671b-11ea-9f64-5147f725884e.PNG)
-![이력서-2](https://user-images.githubusercontent.com/48410197/76704302-6553f380-671b-11ea-9ff1-41ef8c3f18c9.PNG)
+![이력서-1](https://user-images.githubusercontent.com/48410197/76704531-fbd4e480-671c-11ea-894d-4d2675fe2939.PNG)
+![이력서-2](https://user-images.githubusercontent.com/48410197/76704532-fd061180-671c-11ea-9c09-734f188c0c08.PNG)
 <br>
 
 ## 소개
