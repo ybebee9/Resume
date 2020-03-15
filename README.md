@@ -1,4 +1,5 @@
-<img alt="이력서 이미지" src="https://user-images.githubusercontent.com/48410197/76704100-0b066300-671a-11ea-8c5b-21beee4926ea.PNG" width="100%" />
+![이력서-1](https://user-images.githubusercontent.com/48410197/76704301-6422c680-671b-11ea-9f64-5147f725884e.PNG)
+![이력서-2](https://user-images.githubusercontent.com/48410197/76704302-6553f380-671b-11ea-9ff1-41ef8c3f18c9.PNG)
 <br>
 
 ## 소개
