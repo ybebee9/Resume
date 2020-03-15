@@ -1,8 +1,7 @@
-<img alt="이력서part1" src="https://user-images.githubusercontent.com/48410197/76702543-e99f7a00-670d-11ea-9932-36ae52767963.PNG"
-width="500" display="block" margin="0px auto" />
-<img alt="이력서part2" src="https://user-images.githubusercontent.com/48410197/76702545-ead0a700-670d-11ea-87f7-5100474ea400.PNG" style="width: 500px;" />
-![이력서-2](https://user-images.githubusercontent.com/48410197/76702373-a5f84080-670c-11ea-9549-39e308e49d54.PNG)
-<br>
+<center><img alt="이력서part1" src="https://user-images.githubusercontent.com/48410197/76702543-e99f7a00-670d-11ea-9932-36ae52767963.PNG"
+width="75%" /></center>
+<center><img alt="이력서part2" src="https://user-images.githubusercontent.com/48410197/76702545-ead0a700-670d-11ea-87f7-5100474ea400.PNG" 
+width="75%" /></center>
 
 
 ## 소개
