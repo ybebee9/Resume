@@ -1,4 +1,4 @@
-![이력서](https://user-images.githubusercontent.com/48410197/76704100-0b066300-671a-11ea-8c5b-21beee4926ea.PNG)
+![이력서](https://user-images.githubusercontent.com/48410197/76704100-0b066300-671a-11ea-8c5b-21beee4926ea.PNG){: width="100%" }
 
 <br>
 
